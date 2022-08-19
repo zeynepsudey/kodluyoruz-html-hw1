@@ -10,4 +10,6 @@ Bu çalışma Frontend Web Development Patikası kapsamında yapmış olduğum i
 
 başlıkları altında içerikler bulunmaktadır.
 
-[link](https://www.patika.dev/tr)
+
+### Link
+[patika.dev](https://www.patika.dev/tr)
