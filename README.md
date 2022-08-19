@@ -1,6 +1,6 @@
 # Kodluyoruz İlk HTML Ödevi
 
-![Fotoğraf] (https://r.resimlink.com/V21Uf7mzEWrn.png)
+![Fotoğraf] (file:///C:/Users/zeyne/Desktop/websayfam.png)
 
 Bu çalışma Frontend Web Development Patikası kapsamında yapmış olduğum ilk HTML ödevidir. İçerisinde,
 
