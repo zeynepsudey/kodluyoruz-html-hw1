@@ -9,3 +9,5 @@ Bu çalışma Frontend Web Development Patikası kapsamında yapmış olduğum i
 * Bazı çalışmalarım
 
 başlıkları altında içerikler bulunmaktadır.
+
+[link] (https://www.patika.dev/tr)
