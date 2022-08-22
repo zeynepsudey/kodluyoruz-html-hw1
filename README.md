@@ -7,6 +7,9 @@ Bu çalışma Frontend Web Development Patikası kapsamında yapmış olduğum i
 
 * Hakkımda
 * Hobilerim
+* Sevdiğim Filmler
+* Sevdiğim Diziler
+* Sevdiğim Kitaplar
 * Bazı çalışmalarım
 
 başlıkları altında içerikler bulunmaktadır.
